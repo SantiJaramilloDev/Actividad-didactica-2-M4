@@ -182,7 +182,7 @@ Muestra la evolución temporal de la longitud de cola en cada cajero durante una
 
 ## Autor
 
-Brayan Santiago Jaramillo Amézquita
+Brayan Santiago Jaramillo Amézquita  
 Actividad Didáctica 2-M4 – Simulación  
 IU Digital de Antioquia  
 06 de Junio de 2026
